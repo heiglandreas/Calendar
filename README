@@ -1,0 +1,7 @@
+--------
+Calendar
+--------
+
+A package to handle calendar-related tasks.
+
+That includes - but is not limited to - parsing and creation of iCalendar-Files
